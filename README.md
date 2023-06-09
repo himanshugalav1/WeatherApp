@@ -1,17 +1,20 @@
-<h2 align="center">
+<h1 align="center">
   WEATHER APP - 
   <a href="https://himanshugalav1-weatherapp-weather-vvfpp9.streamlit.app/" target="_blank">Link</a>
-</h2>
+</h1>
 
-<br/>
 <br/>
 
 <div align="center">
   <img alt="Demo" src="./images/Home.png" />
-  <h3 align="center">Website Preview</h3>
+  <h4 align="center">Website Preview</h4>
 </div>
+<p float="left">
+  <img src="./images/LineCelsius.png" width="400" />
+  <img src="./images/BarCelsius.png" width="400" /> 
+</p>
 
-Descriptions for the Python-based weather app:
+<h3>Descriptions for the Python-based weather app:</h3>
 
 - Python-based weather app: A weather application developed using Python programming language.
 - pyOWM API integration: Utilizes the pyOWM API to fetch weather forecast data from a reliable source.
