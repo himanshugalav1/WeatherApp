@@ -11,6 +11,8 @@ owm = OWM(api)
 mgr = owm.weather_manager()
 degree = u'\N{DEGREE SIGN}'
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 st.markdown("<h1 style='text-align: center; '>WEATHER FORECAST \U0001F326 </h1>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; '>Write the name of a City and select the Temperature Unit and Graph Type from below</h6>", unsafe_allow_html=True)
 
